@@ -1,5 +1,5 @@
 LETICIA SALOMON  
-Puteaux, France | l.salomon@etudiant.edcparis.edu | +33 06 26 45 44 79 | linkedin.com/in/leticia-salomon  
+Puteaux, France 
 
 ────────────────────────────────────────────────────────────────────  
 OBJECTIVE  
@@ -57,6 +57,7 @@ CERTIFICATIONS
 INTERESTS & ACTIVITIES  
 • Passionate about neurotech companies (e.g., applying EEG/BCI to quant trading psychology).  
 • EDC Incubateur (2025) → startup development 
-• ResearchGate Profile: (https://www.researchgate.net/profile/Leticia-Salomon)
+• ResearchGate Profile → (https://www.researchgate.net/profile/Leticia-Salomon)
+• LinkedIn → www.linkedin.com/in/leticia-salomon-959578309
 
 ────────────────────────────────────────────────────────────────────  
