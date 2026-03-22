@@ -1,5 +1,4 @@
 LETICIA SALOMON  
-Puteaux, France 
 
 ────────────────────────────────────────────────────────────────────  
 OBJECTIVE  
@@ -54,8 +53,7 @@ CERTIFICATIONS
 • University of Manchester: Industrial Biotechnology (January 2025)
 
 ────────────────────────────────────────────────────────────────────  
-INTERESTS & ACTIVITIES  
-• Passionate about neurotech companies (e.g., applying EEG/BCI to quant trading psychology).  
+INTERESTS & ACTIVITIES   
 • EDC Incubateur (2025) → startup development 
 • ResearchGate Profile → (https://www.researchgate.net/profile/Leticia-Salomon)
 • LinkedIn → www.linkedin.com/in/leticia-salomon-959578309
