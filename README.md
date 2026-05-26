@@ -1,17 +1,8 @@
-LETICIA SALOMON  
-
-────────────────────────────────────────────────────────────────────  
-OBJECTIVE  
-Quantitative Strategist Summer Analyst – Engineering Division, London (2026)  
-Brazilian double-degree candidate passionate about neurotech-finance intersections. Seeking to apply neural signal analysis and high-performance modeling to build innovative strats for global markets.  
 
 ────────────────────────────────────────────────────────────────────  
 EDUCATION  
-Double Degree    
 EDC Paris Business School                                                                                                          Puteaux, France | September 2025 – June 2027
-BSc in Management   (2nd year)                                                                                                                                                        
-                                                                                                                       
-Pontifícia Universidade Católica do Paraná (PUC-PR)                                                                               Curitiba, Brazil | January 2024 – June 2028
+BSc in Management   (2nd year)                                                                                                                                                                                                                                                                Pontifícia Universidade Católica do Paraná (PUC-PR)                                                                               Curitiba, Brazil | January 2024 – June 2028
 BSc in Business Administration (remote)                                                                                                                                                       
 • GPA: 3.6/4.0                                                                                                                    
 
@@ -23,7 +14,7 @@ Developer & Trader (Crypto/Forex/Stocks)
 
 ────────────────────────────────────────────────────────────────────  
 PROJECTS  
-Neural Emotion Analyzer for Trading – Neurotech Prototype (Ongoing)  
+Neural Emotion Analyzer for Trading – Neurotech Prototype  
 • LSTM neural network processing EEG signals to detect trader emotions (stress/fear/greed) → reduced simulated drawdowns by 22% in backtests.  
 • Integrated with MT5 for real-time signals → targets neurotech firms like Kernel/Neuralink for behavioral quant strats.  
 
@@ -47,7 +38,7 @@ SKILLS
 
 ────────────────────────────────────────────────────────────────────  
 CERTIFICATIONS  
-• École Polytechnique Fédérale de Lausanne: Introduction to Discrete Choice Models (Ongoing, 2025)  
+• École Polytechnique Fédérale de Lausanne: Introduction to Discrete Choice Models (December, 2025)  
 • HEC Paris & AXA: Investment Management in Volatile Markets (March 2025)  
 • Erasmus University Rotterdam: Advanced Valuation & Strategy (M&A/PE/VC) (April 2025)  
 • University of Manchester: Industrial Biotechnology (January 2025)
